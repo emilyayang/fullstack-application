@@ -1,6 +1,6 @@
 # fullstack-application
 Requirement: 
-- Our goal is to build a ticketing order app for a particualr restaurant. 
+- Our goal is to build a ticketing order app for any restaurant. 
 - Users can submit an order to any restaurant listed in the dropdown below, and will be displayed passed on time the order was submitted. 
 - The app should be able to filter by the resturant selection, and orders can be deleted off the list.
 
